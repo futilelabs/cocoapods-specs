@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
   s.authors      = { "Mat Ryer" => "matryer@mac.com" }
 
-  s.source       = { :git => "https://github.com/futilelabs/methodx-cocoa.git", :tag => "1.0" }
+  s.source       = { :git => "https://github.com/futilelabs/methodx-cocoa.git", :tag => "v1.0" }
 
   s.ios.deployment_target = '6.0'
   s.osx.deployment_target = '10.8'
